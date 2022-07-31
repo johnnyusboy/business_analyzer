@@ -1,0 +1,26 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#reads csv financial statements
+
+
+
+
+
+
+
+
